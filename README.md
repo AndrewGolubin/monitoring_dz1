@@ -30,7 +30,7 @@
 
 Targets-ы prometheus
 
-![targets] (https://user-images.githubusercontent.com/23739863/169870335-7c189eb1-ac90-4b54-961b-76493a983df4.png)
+![targets](https://user-images.githubusercontent.com/23739863/169870335-7c189eb1-ac90-4b54-961b-76493a983df4.png)
 
 
 
