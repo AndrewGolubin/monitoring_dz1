@@ -28,5 +28,11 @@
 
 ![Контейнеры на Virt2](https://user-images.githubusercontent.com/23739863/169869404-b58bc89d-58bb-4220-b684-3ea669aae6ad.png)
 
+Targets-ы prometheus
+
+![targets] (https://user-images.githubusercontent.com/23739863/169870335-7c189eb1-ac90-4b54-961b-76493a983df4.png)
+
+
+
 
 
