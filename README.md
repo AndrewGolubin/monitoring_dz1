@@ -12,4 +12,4 @@
 3. На Virt2, в докере, развернуты и настроены prometheus, alermanager, blackbox exporter, node exporter, telegram-bot. Конфигурционные файлы в каталоге GAP-1/Virt2
 4. Скрины - ниже.
 
-![Консоль управления докерами](https://github.com/AndrewGolubin/monitoring_dz1/issues/1#issue-1245409481)
+![Консоль управления докерами](https://user-images.githubusercontent.com/23739863/169861856-b1c7c3a9-5d4a-4fbb-ab46-d7f39e2964c9.png)
