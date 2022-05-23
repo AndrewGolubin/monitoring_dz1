@@ -11,4 +11,5 @@
 2. На WP-Cloud, в докере, развернута CMS WordPress, орагнизован проброс внешнего трафика, настроен DNS на хосте провайдера, организовано получение и обновление ssl сертификатов. CMS доступна на https://cloud.cardio32.ru. Конфигурационные файлы в каталоге GAP-1/WP-Cloud.
 3. На Virt2, в докере, развернуты и настроены prometheus, alermanager, blackbox exporter, node exporter, telegram-bot. Конфигурционные файлы в каталоге GAP-1/Virt2
 4. Скрины - ниже.
+
 ![ScreenShot](https://cloud.mail.ru/public/YSrk/vrXbnQ4LF)
