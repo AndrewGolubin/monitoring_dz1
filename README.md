@@ -19,3 +19,7 @@
 Контейнеры на WP-Cloud
 
 ![WP-Cloud](https://user-images.githubusercontent.com/23739863/169865049-33ea30fb-f020-42a6-a197-cffeeb8b1dde.png)
+
+Главная страница CMS
+
+![CMS-Images]()
