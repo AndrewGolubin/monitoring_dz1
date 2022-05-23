@@ -26,6 +26,7 @@
 
 Контейнеры на Virt2
 
-![Контейнеры на Virt2]()
+![Контейнеры на Virt2](https://user-images.githubusercontent.com/23739863/169869404-b58bc89d-58bb-4220-b684-3ea669aae6ad.png)
+
 
 
