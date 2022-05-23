@@ -14,4 +14,4 @@
 
 ![Консоль управления докерами](https://user-images.githubusercontent.com/23739863/169861856-b1c7c3a9-5d4a-4fbb-ab46-d7f39e2964c9.png)
 
-![WP-Cloud]()
+![WP-Cloud]((https://user-images.githubusercontent.com/23739863/169865049-33ea30fb-f020-42a6-a197-cffeeb8b1dde.png)
