@@ -22,4 +22,6 @@
 
 Главная страница CMS
 
-![CMS-Images]()
+![CMS-Images](https://github.com/AndrewGolubin/monitoring_dz1/issues/1#issuecomment-1134902261)
+
+
