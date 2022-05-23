@@ -12,4 +12,4 @@
 3. На Virt2, в докере, развернуты и настроены prometheus, alermanager, blackbox exporter, node exporter, telegram-bot. Конфигурционные файлы в каталоге GAP-1/Virt2
 4. Скрины - ниже.
 
-![Консоль управления докерами](https://cloud.mail.ru/public/YSrk/vrXbnQ4LF)
+![Консоль управления докерами]()
