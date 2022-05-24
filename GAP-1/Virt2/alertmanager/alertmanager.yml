@@ -1,0 +1,21 @@
+global:
+  resolve_timeout: 1m
+
+route:
+  group_by: ['alertname']
+  group_wait: 10s
+  group_interval: 10s
+  repeat_interval: 5m
+  receiver: 'telegram-bot'
+receivers:
+  - name: 'telegram-bot'
+    webhook_configs:
+    - send_resolved: true
+      url: 'http://192.168.12.179:8080'
+
+inhibit_rules:
+  - source_match: 
+      severity: 'critical'
+    target_match:
+      severity: 'warning'
+    equal: ['alertname']
