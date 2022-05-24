@@ -38,7 +38,7 @@ Alert-ы prometheus
 
 Стоп контейнеров с CMS
 
-![StopCMS]()
+![StopCMS](https://user-images.githubusercontent.com/23739863/169969772-22fc7f7a-d19f-49ce-96b6-f14037935406.png)
 
 Активный алерт
 
