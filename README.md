@@ -9,10 +9,10 @@
 Отчет:
 1. В среде vmware подняты 2 ВМ: WP-Cloud (192.168.12.168) и Virt2 (192.168.12.179). На обоих хостах установлен docker, docker-compose, и поднят portainer для управления контейнерами. Доступ к общей консоли управления организован на Virt2.
 2. На WP-Cloud, в докере, развернута CMS WordPress, орагнизован проброс внешнего трафика, настроен DNS на хосте провайдера, организовано получение и обновление ssl сертификатов. CMS доступна на https://cloud.cardio32.ru. Конфигурационные файлы в каталоге GAP-1/WP-Cloud.
-3. На Virt2, в докере, развернуты и настроены prometheus, alermanager, blackbox exporter, node exporter, telegram-bot. Конфигурционные файлы в каталоге GAP-1/Virt2
+3. На Virt2, в докере, развернуты и настроены prometheus, alermanager, blackbox exporter, node exporter, telegram-bot, настроена передача алертов в телеграмм. Конфигурционные файлы в каталоге GAP-1/Virt2
 4. Скрины - ниже.
 
-5. Консоль управления
+Консоль управления
 
 ![Консоль управления докерами](https://user-images.githubusercontent.com/23739863/169861856-b1c7c3a9-5d4a-4fbb-ab46-d7f39e2964c9.png)
 
@@ -35,6 +35,23 @@ Targets-ы prometheus
 Alert-ы prometheus
 
 ![alets](https://user-images.githubusercontent.com/23739863/169871066-8972dc00-7dfd-4374-b104-27932c469788.png)
+
+Стоп контейнеров с CMS
+
+![StopCMS]()
+
+Активный алерт
+
+![ActivAlert]()
+
+Алерт в alertmanager-е
+
+![Alertmanager]()
+
+Сообщение в телеграмм
+
+![TelegrammMess]()
+
 
 
 
