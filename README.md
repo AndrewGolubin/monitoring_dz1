@@ -46,7 +46,7 @@ Alert-ы prometheus
 
 Алерт в alertmanager-е
 
-![Alertmanager]()
+![Alertmanager](https://user-images.githubusercontent.com/23739863/169970158-d7fd48ca-b37c-4876-b535-8c2cc0121909.png)
 
 Сообщение в телеграмм
 
