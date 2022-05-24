@@ -42,7 +42,7 @@ Alert-ы prometheus
 
 Активный алерт
 
-![ActivAlert]()
+![ActivAlert](https://user-images.githubusercontent.com/23739863/169969953-3da4b66e-aaa8-4f50-aecd-ee7ad87ade45.png)
 
 Алерт в alertmanager-е
 
