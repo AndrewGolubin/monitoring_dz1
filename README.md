@@ -50,7 +50,7 @@ Alert-ы prometheus
 
 Сообщение в телеграмм
 
-![TelegrammMess](https://user-images.githubusercontent.com/23739863/169970306-515d69ed-e93e-4ae4-90d0-43208070d9aa.png)
+![TelegrammMess](https://user-images.githubusercontent.com/23739863/169972465-a5d0fa4c-b57f-4793-8259-b8bcbf29b4f0.png)
 
 
 
